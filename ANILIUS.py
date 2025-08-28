@@ -268,4 +268,5 @@ while True:
         ask_port = int(input("The Listener Port: "))
         listenTo(ask_ip, ask_port)
     else:
-        print(Fore.YELLOW + "[ASSISTANT]: Your Prompt Must Be A Number Between 1-9")
+
+        print(Fore.YELLOW + "[ASSISTANT]: Your Prompt Must Be A Number Between 1-8")
