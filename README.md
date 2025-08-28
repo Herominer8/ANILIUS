@@ -9,7 +9,7 @@ Required Libraries:
 8.codecs
 
 Description:
-This is ANILIUS's first version which made for helping red teams and pentesters and .....
+This is ANILIUS's first version which is created for helping red teams and pentesters and .....
 It has 8 items to use:
 
 1.Wifi Access Points Scanner(scans any access point in your area)
@@ -26,4 +26,5 @@ IMPORTANT: Don't Use This Tool For Illegal Jobs(optional)
 ====================
 
 Wrote By Herominer8
+
 
